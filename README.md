@@ -164,14 +164,8 @@ data-analytics-chatbot/
 
 ---
 
-## 📄 License
-
-> Add a license here if needed (e.g., MIT, Apache 2.0)
-
----
-
 ## ✍️ Author
 
-- [Your Name Here](https://github.com/your-username)
+- [LAKUM SAI CHARAN](https://github.com/lakumsaicharan)
 
 ---
