@@ -8,4 +8,14 @@ scikit-learn
 plotly
 OpenAI
 requests
+google-generativeaistreamlit
+pandas
+numpy
+scipy
+seaborn
+matplotlib
+scikit-learn
+plotly
+OpenAI
+requests
 google-generativeai
